@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 gmth6789/core is built on the following main stack:
+
 - [Context.IO](http://context.io) – Email API
 - [PHP](http://www.php.net/) – Languages
 - [Python](https://www.python.org) – Languages
@@ -15,11 +16,13 @@ gmth6789/core is built on the following main stack:
 - [PHPStan](https://github.com/phpstan/phpstan) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 gmth6789/core is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/240/mPMj_ee5.png' alt='Context.IO'/> [Context.IO](http://context.io) – Email API
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -33,14 +36,15 @@ gmth6789/core is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8333/phpst.png' alt='PHPStan'/> [PHPStan](https://github.com/phpstan/phpstan) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/core](https://github.com/gmth6789/core)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|11/09/23 <br/>Report generated|
+|18<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -199,10 +203,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[beautifulsoup4](https://pypi.org/beautifulsoup4)|N/A|04/08/22|Oliver Skroblin |MIT|N/A|
-|[requests](https://pypi.org/requests)|N/A|07/14/22|Soner Sayakci |Apache-2.0|N/A|
+|[beautifulsoup4](https://pypi.org/project/beautifulsoup4)|N/A|04/08/22|Oliver Skroblin |MIT|N/A|
+|[requests](https://pypi.org/project/requests)|N/A|07/14/22|Soner Sayakci |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
