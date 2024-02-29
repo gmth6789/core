@@ -1,0 +1,226 @@
+repo_name: gmth6789/core
+report_id: d5d6cfabab564e846abf714d678df2fc
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:07:54+00:00'
+requested_by: vienthuong
+provider: github
+branch: trunk
+detected_tools_count: 18
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/gmth6789/core
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/gmth6789/core
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/gmth6789/core
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/gmth6789/core
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/Content/Test/Newsletter/fixtures/recipient.sql
+  detection_source: Content/Test/Newsletter/fixtures/recipient.sql
+  last_updated_by: Dennis Garding
+  last_updated_on: 2019-04-03 07:08:00.000000000 Z
+- name: Guzzle
+  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
+    to integrate with web services
+  website_url: http://guzzlephp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2350/638632.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/composer.json
+  detection_source: composer.json
+  last_updated_by: Jonas Elfering
+  last_updated_on: 2023-07-25 11:56:26.000000000 Z
+- name: Symfony
+  description: A PHP full-stack web framework
+  website_url: http://symfony.com/
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1197/logosf_positif_03_icon.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/composer.json
+  detection_source: composer.json
+  last_updated_by: Michael Telgmann
+  last_updated_on: 2023-10-02 07:31:56.000000000 Z
+- name: Twig
+  description: A flexible, fast, and secure template engine
+  website_url: https://twig.symfony.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1642/default_3debd3a9a6d757c011130c7a9626e7c3bd8be945.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/composer.json
+  detection_source: composer.json
+  last_updated_by: ssltg
+  last_updated_on: 2022-09-20 08:08:25.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gmth6789/core
+  detection_source: Repo Metadata
+- name: PHPStan
+  description: PHP Static Analysis Tool - discover bugs in your code without running
+    it!
+  website_url: https://github.com/phpstan/phpstan
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/8333/phpst.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/DevOps/StaticAnalyze/PHPStan/composer.json
+  detection_source: DevOps/StaticAnalyze/PHPStan/composer.json
+  last_updated_by: Jonas Elfering
+  last_updated_on: 2023-05-22 11:49:59.000000000 Z
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  version: '9.6'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/composer.json
+  detection_source: composer.json
+  last_updated_by: Jan Bücker
+  last_updated_on: 2018-04-30 08:13:15.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/DevOps/Locust/requirements.txt
+  detection_source: DevOps/Locust/requirements.txt
+  last_updated_by: Oliver Skroblin
+  last_updated_on: 2022-04-08 09:47:04.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/Framework/Test/Plugin/_fixture/apps/with-webpack/Resources/app/storefront/build/webpack.config.js
+  detection_source: Framework/Test/Plugin/_fixture/apps/with-webpack/Resources/app/storefront/build/webpack.config.js
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/DevOps/Locust/requirements.txt
+  detection_source: DevOps/Locust/requirements.txt
+  last_updated_by: Oliver Skroblin
+  last_updated_on: 2022-04-08 09:47:04.000000000 Z
+- name: Context.IO
+  description: A REST email API that makes it easy and fast to integrate your user's
+    email data in your application.
+  website_url: http://context.io
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Email API
+  image_url: https://img.stackshare.io/service/240/mPMj_ee5.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/composer.json
+  detection_source: composer.json
+  last_updated_by: Jan Bücker
+  last_updated_on: 2018-04-30 08:13:15.000000000 Z
+- name: Monolog
+  website_url: https://github.com/Seldaek/monolog
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9170/183678.jpeg
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/composer.json
+  detection_source: composer.json
+  last_updated_by: Jonas Elfering
+  last_updated_on: 2023-07-25 11:56:26.000000000 Z
+- name: beautifulsoup4
+  description: Screen-scraping library
+  package_url: https://pypi.org/project/beautifulsoup4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/DevOps/Locust/requirements.txt
+  detection_source: DevOps/Locust/requirements.txt
+  last_updated_by: Oliver Skroblin
+  last_updated_on: 2022-04-08 09:47:04.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/gmth6789/core/blob/trunk/DevOps/Locust/requirements.txt
+  detection_source: DevOps/Locust/requirements.txt
+  last_updated_by: Soner Sayakci
+  last_updated_on: 2022-07-14 14:16:09.000000000 Z
